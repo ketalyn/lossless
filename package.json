@@ -5,7 +5,7 @@
   "scripts": {
     "build": "vite build",
     "deploy": "vite build && gh-pages -d dist"
-  },  
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
