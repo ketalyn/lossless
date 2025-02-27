@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: "/lossless/", // Replace 'yourrepo' with your actual GitHub repository name
+  base: "/lossless/", // Update to match your GitHub repo name exactly
 });
